@@ -149,6 +149,7 @@ margin-left: 70px;
   text-transform: uppercase;
   max-height: 36px;
   margin-left: 20px;
+  margin-right: 70px;
   padding: 8px 30px;
 }
 
@@ -233,6 +234,7 @@ margin-left: 70px;
 }
 
 .advantages-description {
+  font-family: PT Sans;
   font-weight: 700;
   color: #000000;
   line-height: 26px;
@@ -593,7 +595,7 @@ width: 140px;
   width: 60px;
   height: 60px;
   padding: 12px;
-align-items: center;
+  align-items: center;
   justify-content: center;
   font-size: 20px;
   font-style: normal;
